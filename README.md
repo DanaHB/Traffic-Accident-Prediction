@@ -21,4 +21,4 @@ The project follows a structured data science pipeline, emphasizing the importan
 
 ## 5. Implementation Files
 * [Source Code (Colab Notebook)](./DataManagementAndVisualizationProject.ipynb)
-* [Technical Report (PDF)](./Data_Management_Project.pdf)
+* [Technical Report (PDF)](./Data Management Project.pdf)
